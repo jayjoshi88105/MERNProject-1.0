@@ -1,2 +1,5 @@
-# MERNProject-1.0
-MERN
+## Useful Commands
+
+### `npm start`
+### `mongod`
+### `nodemon server.js`
